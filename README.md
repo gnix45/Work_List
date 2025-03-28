@@ -40,7 +40,7 @@ I'm a tech enthusiast passionate about ethical hacking, coding, WordPress develo
 ### Clone the Repository
 ```sh
 git clone https://github.com/gnix45/Work_List.git
-cd your-repo
+cd Work_List
 ```
 
 ### Installation
