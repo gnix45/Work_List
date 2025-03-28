@@ -39,7 +39,7 @@ I'm a tech enthusiast passionate about ethical hacking, coding, WordPress develo
 ## 🚀 Getting Started
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/gnix45/Work_List.git
 cd your-repo
 ```
 
@@ -50,8 +50,8 @@ Each project has its own installation guide inside its folder. Refer to the resp
 Feel free to open issues, submit pull requests, or suggest improvements! Contributions are always welcome.
 
 ## 📧 Contact
-- **YouTube:** [Tech Tribe](https://www.youtube.com/channel/your-channel)
-- **Email:** your-email@example.com
+- **YouTube:** [Tech Tribe](https://www.youtube.com/channel/techtrib)
+- **Email:** tectrib@gmail.com
 
 ## 📝 License
 This repository follows the MIT License. Feel free to use and modify the projects as needed.
