@@ -1,0 +1,10 @@
+services:
+  - name: qr-code-generator
+    type: web
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn app:app"
+    plan: free
+    envVars:
+      - key: PORT
+        value: 5000
